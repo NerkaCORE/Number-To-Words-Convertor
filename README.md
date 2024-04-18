@@ -1,4 +1,4 @@
-# NumberToWordsConvertor
+# Number To Words Convertor
 
 Some algo function I coded in PHP to convert a number under 1.000.000.000 to letters in french.
 
